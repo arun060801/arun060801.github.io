@@ -1,0 +1,16 @@
+{
+  "name": "N Arun Kumar | Penetration Tester",
+  "short_name": "N Arun Kumar",
+  "description": "Portfolio of N Arun Kumar, Penetration Tester and Security Researcher.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060A",
+  "theme_color": "#00FF9D",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
